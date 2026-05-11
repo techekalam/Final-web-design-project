@@ -75,7 +75,19 @@ body {
     margin: 20px;
     
 }
-
+.contact-info {
+    text-align: center;
+    margin-top: 50px;
+    padding:20px;
+    margin: 20px;
+}
+#signs,ul {
+    text-align: left;
+    margin-top: 50px;
+    padding:20px;
+    margin: 20px;
+    background-color:transparent
+}
+    
     
 
-}
